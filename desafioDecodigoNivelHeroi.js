@@ -1,5 +1,5 @@
 const heroi = "nomedoheroi";
-const xp = 0;
+const xp = 10001;
 let level = " ";
 
 if (xp < 1000) {
